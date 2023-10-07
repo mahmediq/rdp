@@ -1,5 +1,3 @@
-Free rdp mediaboooster.com
-
 name: CI 
 on: [push, workflow_dispatch]
  jobs:
